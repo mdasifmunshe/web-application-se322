@@ -1,2 +1,2 @@
 # web-application-se322
-Building web application for university
+Building web applications for university
